@@ -4,7 +4,7 @@
 
 ## [For rest of the topics I reffered my DSA Sheet Questions](https://www.youtube.com/watch?v=NXQi_g1pVqI/)
 
-## These are some selected questions apart from my DSA Sheet that I solved to prepare for my Google interviews.
+### These are some selected questions apart from my DSA Sheet that I solved to prepare for my Google interviews
 
 - Dynamic Programming
   - Digit DP
@@ -61,3 +61,5 @@
   - SegmentTreeSnippetClass.cpp
   - Xenia.cpp
 - README.md
+
+## BONUS ;) [Learn from me](https://www.youtube.com/c/LeadCodingbyFRAZ)
