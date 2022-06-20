@@ -1,5 +1,10 @@
 # 3-weeks-Google-Prep
-These are some selected questions that I solved to prepare for my Google interviews.
+
+## [How I Cracked my Dream Company GOOGLE](https://youtu.be/YlP7CWpHgS4)
+
+## [For rest of the topics I reffered my DSA Sheet Questions](https://www.youtube.com/watch?v=NXQi_g1pVqI/)
+
+## These are some selected questions apart from my DSA Sheet that I solved to prepare for my Google interviews.
 
 - Dynamic Programming
   - Digit DP
