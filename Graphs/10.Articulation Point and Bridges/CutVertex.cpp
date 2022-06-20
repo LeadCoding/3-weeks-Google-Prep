@@ -1,7 +1,3 @@
-
-
-
-
 void dfs(int parent,int node) {
 
 	visited[node]=1;
