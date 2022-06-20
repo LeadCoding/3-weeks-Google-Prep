@@ -1,5 +1,4 @@
-
-    bool dfs(unordered_map<int,vector<int>> &graph, int node, vector<int> &visited, vector<int>& arrangedCourses, int& i, vector<int>& family) {
+  bool dfs(unordered_map<int,vector<int>> &graph, int node, vector<int> &visited, vector<int>& arrangedCourses, int& i, vector<int>& family) {
         visited[node] = 1;
         family[node] = 1;
         for(int nbr : graph[node]) {
