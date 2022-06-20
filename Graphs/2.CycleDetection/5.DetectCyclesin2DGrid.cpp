@@ -1,6 +1,3 @@
-
-
-
 bool dfs(int i, int j, vector<vector<int>>& v, vector<vector<char>>& grid, char c, int pi, int pj, int n, int m) {
         
         if(i < 0 || i >= n || j < 0 || j >= m || grid[i][j] != c) {
