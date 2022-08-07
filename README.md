@@ -43,7 +43,7 @@
     - 2. BellmanFord.cpp
     - 3. FLoydWarshall.cpp
   - 09. StronglyConnected
-    - Kosarju.cpp
+    - 1. Kosarju.cpp
   - 10. Articulation Point and Bridges
     - 1. CutEdges.cpp
     - 2. CutVertex.cpp
@@ -52,11 +52,13 @@
   - 1. Barcode.cpp
   - 2. CherryPick.cpp
   - 3. Digit DP-MagicNumbers.cpp
+  - Readme.md
 - SegmentTree
   - 1. SegmentTreeSnippetClass.cpp
   - 2. Xenia.cpp
+  - Readme.md
 - Rolling hash
-  - Rabin_carp.cpp
+  - 1. Rabin_carp.cpp
 - Rest of the Topic
   - Readme.md
 - README.md
