@@ -6,60 +6,59 @@
 
 ### These are some selected questions apart from my DSA Sheet that I solved to prepare for my Google interviews
 
-- Dynamic Programming
-  - Digit DP
-    - MagicNumbers.cpp
-  - Barcode.cpp
-  - cherryPick.cpp
 - Graphs
-  - 1.Representation
-    - List.cpp
-    - Matrix.cpp
+  - 01. Representation
+    - 1. List.cpp
+    - 2. Matrix.cpp
+  - 02. CycleDetection
+    - 1. DetectCycleUndirectedGraph.cpp 
+    - 2. DetectCycleDirectedGraph.cpp 
+    - 3. IsBipartite.cpp
+    - 4. LengthOfSmallestCycle.cpp
+    - 5. DetectCyclesin2DGrid.cpp
+    - 6. Maximum Employees to Be Invited to a Meeting.cpp
+  - 03. DSU
+    - 1. DSUSnippetClass.cpp
+    - 2. Redundant Connection II.cpp
+  - 04. Topological Sort
+    - 1. TopologicalBFS.cpp
+    - 2. TopologicalDFS.cpp
+    - 3. GameRoutes.cpp
+    - 4. LargestColorValueInADirectedGraph.cpp
+  - 05.MST
+    - 1. Kruskals.cpp
+    - 2. Prims.cpp
+  - 06.BFS
+    - 1. Boredom.cpp
+    - 2. WordLadder2.cpp
+    - 3. MultiSourceBFS.cpp
+    - 4. ValidBFS.cpp
+  - 07.DFS
+    - 1. ConnectedComponents.cpp
+    - 2. DFSwithStoppingCondition.cpp
+    - 3. ReconstructItinerary.cpp
+    - 4. JourneyToTheMoon.cpp
+  - 08.Shortest Paths Algo
+    - 1. Dijkstras.cpp
+    - 2. BellmanFord.cpp
+    - 3. FLoydWarshall.cpp
+  - 09.StronglyConnected
+    - Kosarju.cpp
   - 10.Articulation Point and Bridges
-    - CutEdges.cpp
-    - CutVertex.cpp
-  - 2.CycleDetection
-    - 1.DetectCycleUndirectedGraph.cpp 
-    - 2.DetectCycleDirectedGraph.cpp 
-    - 3.IsBipartite.cpp
-    - 4.LengthOfSmallestCycle.cpp
-    - 5.DetectCyclesin2DGrid.cpp
-    - 6.Maximum Employees to Be Invited to a Meeting.cpp
-  - 3.DSU
-    - 1.Redundant Connection II.cpp
-    - DSUSnippetClass.cpp
-  - 4.Topological Sort
-    - GameRoutes.cpp
-    - LargestColorValueInADirectedGraph.cpp
-    - TopologicalBFS.cpp
-    - TopologicalDFS.cpp
-  - 5.MST
-    - Kruskals.cpp
-    - Prims.cpp
-  - 6.BFS
-    - MultiSourceBFS.cpp
-    - ValidBFS.cpp
-    - WorldLadder2.cpp
-    - boredom.cpp
-  - 7.DFS
-    - ConnectedComponents.cpp
-    - DFSwithStoppingCondition.cpp
-    - JourneyToTheMoon.cpp
-    - ReconstructItinerary.cpp
-  - 8.Shortest Paths Algo
-    - BellmanFord.cpp
-    - Dijkstras.cpp
-    - FLoydWarshall.cpp
-  - 9.StronglyConnected
-    - kosarju.cpp
+    - 1. CutEdges.cpp
+    - 2. CutVertex.cpp
   - Readme.md
+- Dynamic Programming
+  - 1. Barcode.cpp
+  - 2. CherryPick.cpp
+  - 3. Digit DP-MagicNumbers.cpp
+- SegmentTree
+  - 1. SegmentTreeSnippetClass.cpp
+  - 2. Xenia.cpp
+- Rolling hash
+  - Rabin_carp.cpp
 - Rest of the Topic
   - Readme.md
-- Rolling hash
-  - rabin_carp.cpp
-- SegmentTree
-  - SegmentTreeSnippetClass.cpp
-  - Xenia.cpp
 - README.md
 
 ## BONUS ;) [Learn from me](https://www.youtube.com/c/LeadCodingbyFRAZ)

@@ -1,5 +1,5 @@
 /*
-	Notes :
+	Notes:
 	1- No self loop or parelled edges 
 	2- We try to connect all the nodes 
 	3- We start by picking 1 node 
@@ -9,8 +9,8 @@
 	7- This way we keep including nodes and covers up all nodes
 	8- In total we have V nodes and V-1 edges
 	9- We use adj list 
-	Complexity :- O((V+E)Log(V))
-	Space 	   :- O(E+V)
+	Time Complexity :- O((V+E)Log(V))
+	Space Complexity :- O(E+V)
 
 */
 

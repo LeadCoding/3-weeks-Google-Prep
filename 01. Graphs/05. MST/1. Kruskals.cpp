@@ -1,12 +1,12 @@
 /*
-	Node 
+	Notes:
 	1- It used edge list 
-	2- sort all edges according to the weights
-	3- then start selecting edges 1 by 1 
-	4- only select an edge if it doesnt form a cycle 
-	5- use DSU for that 
-	6- Time Complexity  ElogE
-	7- Space O(V)
+	2- Sort all edges according to the weights
+	3- Then start selecting edges 1 by 1 
+	4- Only select an edge if it doesnt form a cycle 
+	5- Use DSU for that 
+	6- Time Complexity O(ElogV)
+	7- Space Complexity O(V)
 */ 
 
 int *rank,*parent;
