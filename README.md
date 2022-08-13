@@ -1,5 +1,30 @@
 # 3-weeks-Google-Prep
 
+## Coding Rounds
+
+Google has a total of 7 rounds. First two are telephonic interviews where the interviewer mostly asks one medium or two easy Algo DS problems to the candidate and the candidate has 45 minutes to solve the problems. However if the performance in Kickstart is good, these rounds are skipped and you directly move to the next rounds. Next we have 5 onsite interviews out of which 4 are Algo DS interviews and 1 is Googliness interview, Googliness interview is mostly a behavioral interview.
+
+ - [Resume Selection/Shortlisting]()
+ 
+ - [Technical Phone Interview-Two Rounds]()
+   - These are two *45 minutes* interviews on the phone where the interviewer shares a Google Doc with the candidate and asks either a medium problem or two easy problems of Algorithms and DS. It is expected that the candidate first explains the solution of the problem to the interviewer and then codes the problem on google doc within the time of the interview. (Suggestion: Practice writing the code on google doc if you have any interview coming up as it is a different experience compared to writing the code in any text editor).
+ 
+ - [Coding Rounds-Three or Four Rounds]()
+   - These are 45 minute interviews where the interviewer shares a Google Doc with the candidate and asks Medium to Hard problems of Algorithms and DS. It is expected that the candidate first explains the solution of the problem to the interviewer and then codes the problem on google doc within the time of the interview.
+   
+ - [Googliness Interviews-One Round]()
+   - It’s mostly the behavioral interview to check the cultural fitness of the candidate in the company.
+  
+ - [Hiring Committee]()
+   - **After Interviews:** Once the interviews are over, the recruiter will contact you with the feedback of the interviews, if the performance is good and the interviews are cleared your profile goes to the different teams in Google for the team matching round. 
+ 
+ - [Team Matching]()
+   - In the team matching round the team understands your work style and your interests and you can understand their requirements and the work expectations of the team.
+   
+ - [Result]()
+   - **Hired:** Once the team and you both are comfortable and ready to start, the offer letter is prepared and shared with you by the recruiters and you are ``HIRED!``
+ 
+
 ## [How I Cracked my Dream Company GOOGLE](https://youtu.be/YlP7CWpHgS4)
 
 ## [For rest of the topics I reffered my DSA Sheet Questions](https://www.youtube.com/watch?v=NXQi_g1pVqI/)
