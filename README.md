@@ -1,7 +1,8 @@
 # 3-weeks-Google-Prep
 
-[Crack Google Interview Roadmap](https://whimsical.com/crack-google-interviews-by-sunyul-XwDS2nrUqBu7FmtV6Vipuq)
-[Google Cracker Sheet](https://docs.google.com/document/d/10ymoqHD_C4EZTyzv-0bMHZdyMIPQx0njiyPPdfCi-6g/edit)
+- [Crack Google Interview Roadmap](https://whimsical.com/crack-google-interviews-by-sunyul-XwDS2nrUqBu7FmtV6Vipuq)
+
+- [Google Cracker Sheet](https://docs.google.com/document/d/10ymoqHD_C4EZTyzv-0bMHZdyMIPQx0njiyPPdfCi-6g/edit)
 
 ## Coding Rounds
 
