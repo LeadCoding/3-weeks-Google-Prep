@@ -1,5 +1,8 @@
 # 3-weeks-Google-Prep
 
+[Crack Google Interview Roadmap](https://whimsical.com/crack-google-interviews-by-sunyul-XwDS2nrUqBu7FmtV6Vipuq)
+[Google Cracker Sheet](https://docs.google.com/document/d/10ymoqHD_C4EZTyzv-0bMHZdyMIPQx0njiyPPdfCi-6g/edit)
+
 ## Coding Rounds
 
 Google has a total of 7 rounds. First two are telephonic interviews where the interviewer mostly asks one medium or two easy Algo DS problems to the candidate and the candidate has 45 minutes to solve the problems. However if the performance in Kickstart is good, these rounds are skipped and you directly move to the next rounds. Next we have 5 onsite interviews out of which 4 are Algo DS interviews and 1 is Googliness interview, Googliness interview is mostly a behavioral interview.
